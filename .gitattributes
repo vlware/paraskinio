@@ -1,0 +1,2 @@
+# Diff DOCX files as plain text (requires diff driver config, see README)
+*.docx diff=docx
