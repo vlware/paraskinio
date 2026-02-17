@@ -1,0 +1,26 @@
+#!/bin/bash
+# Amends the last commit to include the .md files created by pre-commit,
+# so each commit contains both .docx and .md (GitHub then diffs the .md).
+
+set -e
+cd "$(git rev-parse --show-toplevel)"
+
+if [ ! -f .commit-amend-markdown ]; then
+  exit 0
+fi
+
+# Stage the .md files (new or removed)
+while IFS= read -r mdfile; do
+  [ -z "$mdfile" ] && continue
+  if [ -f "$mdfile" ]; then
+    git add "$mdfile"
+  else
+    git add -u "$mdfile" 2>/dev/null || true
+  fi
+done < .commit-amend-markdown
+
+rm -f .commit-amend-markdown
+
+# Amend the commit to include the .md files (--no-verify to avoid re-running pre-commit)
+git commit --amend -C HEAD --no-verify
+exit 0

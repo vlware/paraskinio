@@ -1,0 +1,33 @@
+#!/bin/bash
+# Keeps a Markdown (.md) copy of every staged .docx so GitHub PRs can show
+# readable diffs (GitHub does not run your local textconv).
+# Requires: pandoc. Install hooks: cp hooks/* .git/hooks/ && chmod +x .git/hooks/pre-commit .git/hooks/post-commit
+
+set -e
+cd "$(git rev-parse --show-toplevel)"
+
+pandoc -v >/dev/null 2>&1 || {
+  echo >&2 "Pandoc is required to keep .md copies of .docx for PR diffs. Aborting."
+  exit 1
+}
+
+rm -f .commit-amend-markdown
+
+# Create .md for every staged .docx (not deleted)
+for file in $(git diff --cached --name-only --diff-filter=d | grep "\.docx$"); do
+  mdfile="${file%.docx}.md"
+  echo "Creating Markdown copy: $mdfile"
+  pandoc -f docx -t markdown_strict "$file" -o "$mdfile"
+  echo "$mdfile" >> .commit-amend-markdown
+done
+
+# Remove .md when .docx is deleted (staged in this commit, no amend needed)
+for file in $(git diff --cached --name-only --diff-filter=D | grep "\.docx$"); do
+  mdfile="${file%.docx}.md"
+  if [ -e "$mdfile" ]; then
+    echo "Removing Markdown copy: $mdfile"
+    git rm -f "$mdfile" 2>/dev/null || true
+  fi
+done
+
+exit 0
