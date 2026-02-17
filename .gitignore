@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# docx hooks temp file (used by hooks/post-commit)
+.commit-amend-markdown
+
 # dependencies
 /node_modules
 /.pnp
