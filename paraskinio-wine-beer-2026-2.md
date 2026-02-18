@@ -32,7 +32,7 @@
 …......................................……….... bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>20,00</p>
+<p>23,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -40,7 +40,7 @@
 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>20,00</p>
+<p>23,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@
 ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>25,00</p>
+<p>28,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -73,7 +73,7 @@
 ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>25,00</p>
+<p>28,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@
 ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,00</p>
+<p>7,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -107,7 +107,7 @@
 187,50ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,00</p>
+<p>7,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@
 bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>25,00</p>
+<p>23,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -125,7 +125,7 @@ bottle 750ml ....</p>
 ................................ φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>25,00</p>
+<p>23,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ glass 150ml ....</p>
 bottle 200ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>7,00</p>
+<p>8,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -162,7 +162,7 @@ bottle 200ml ....</p>
 ......... φιάλη 200ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>7,00</p>
+<p>8,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -211,38 +211,18 @@ bottle 200ml ....</p>
 </blockquote></td>
 </tr>
 <tr>
-<td><blockquote>
-<p>Oreinos Helios, Semeli Estate, dry …….…..……….........................
-bottle 750ml ....</p>
-</blockquote></td>
-<td><blockquote>
-<p>23,00</p>
-</blockquote></td>
 <td></td>
-<td><blockquote>
-<p>Ορεινός Ήλιος, Semeli, Αγιωργίτικο
-…...…..………......................... φιάλη 750ml ....</p>
-</blockquote></td>
-<td><blockquote>
-<p>23,00</p>
-</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td><blockquote>
-<p>Oreinos Helios, Semeli Estate, dry
-…….…..……….......................... glass 150ml ....</p>
-</blockquote></td>
-<td><blockquote>
-<p>5,00</p>
-</blockquote></td>
 <td></td>
-<td><blockquote>
-<p>Ορεινός Ήλιος, Semeli, Αγιωργίτικο …...………..….......................
-ποτήρι 150ml ....</p>
-</blockquote></td>
-<td><blockquote>
-<p>5,00</p>
-</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -275,7 +255,7 @@ bottle 750ml ....</p>
 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>25,00</p>
+<p>23,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -283,7 +263,7 @@ bottle 750ml ....</p>
 φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>25,00</p>
+<p>23,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -309,7 +289,7 @@ bottle 750ml ....</p>
 ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>30,00</p>
+<p>28,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -317,7 +297,7 @@ bottle 750ml ....</p>
 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>30,00</p>
+<p>28,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -343,7 +323,7 @@ bottle 750ml ....</p>
 bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>35,00</p>
+<p>33,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -351,7 +331,7 @@ bottle 750ml ....</p>
 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>35,00</p>
+<p>33,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -508,14 +488,14 @@ LEGAKIS</p>
 <p>Fischer φιάλη 330ml…………………………………………………………………</p>
 </blockquote></th>
 <th><blockquote>
-<p>4,00</p>
+<p>4,50</p>
 </blockquote></th>
 <th><blockquote>
 <p><strong>BOTTLE</strong></p>
 <p>Fischer bottle 330ml…………………………………………………………………</p>
 </blockquote></th>
 <th><blockquote>
-<p>4,00</p>
+<p>4,50</p>
 </blockquote></th>
 </tr>
 </thead>
@@ -563,18 +543,10 @@ LEGAKIS</p>
 </blockquote></td>
 </tr>
 <tr>
-<td><blockquote>
-<p>Νήσος Θολή φιάλη 330ml…………………………………………………………..</p>
-</blockquote></td>
-<td><blockquote>
-<p>5,00</p>
-</blockquote></td>
-<td><blockquote>
-<p>Nissos Tholi bottle 330ml…………………………………………………………...</p>
-</blockquote></td>
-<td><blockquote>
-<p>5,00</p>
-</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -602,13 +574,13 @@ LEGAKIS</p>
 330ml…………………..........</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,00</p>
+<p>4,50</p>
 </blockquote></td>
 <td><blockquote>
 <p>Clausthaler Lemon 0% Alcohol free bottle 330ml……………..…………………</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,00</p>
+<p>4,50</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -617,13 +589,13 @@ LEGAKIS</p>
 330ml…………………...........………</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,00</p>
+<p>4,50</p>
 </blockquote></td>
 <td><blockquote>
 <p>Clausthaler 0% Alcohol free bottle 330ml…………………………………………</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,00</p>
+<p>4,50</p>
 </blockquote></td>
 </tr>
 <tr>
