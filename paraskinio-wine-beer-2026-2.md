@@ -28,16 +28,16 @@
 <tbody>
 <tr>
 <td><blockquote>
-<p>Oinanthi, Lafazani Estate, dry
-…......................................……….... bottle 750ml ....</p>
+<p>Oinanthi, Lafazani Estate, Rhoditis &amp; Moschato, dry
+....................... bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Οινάνθη, Κτήμα Λαφαζάνη, Ροδίτης &amp; Μοσχάτο …...………….... φιάλη
-750ml ....</p>
+<p>Οινάνθη, Κτήμα Λαφαζάνη, Ροδίτης &amp; Μοσχάτο, ξηρό
+................. φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
@@ -45,15 +45,16 @@
 </tr>
 <tr>
 <td><blockquote>
-<p>Oinanthi, Lafazani Estate, dry ……………………………………… glass 150ml ....</p>
+<p>Oinanthi, Lafazani Estate, Rhoditis &amp; Moschato, dry
+.........................glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Οινάνθη, Κτήμα Λαφαζάνη, Ροδίτης &amp;
-Μοσχάτο.......................... ποτήρι 150ml ....</p>
+<p>Οινάνθη, Κτήμα Λαφαζάνη, Ροδίτης &amp; Μοσχάτο, ξηρό ................
+ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
@@ -61,16 +62,16 @@
 </tr>
 <tr>
 <td><blockquote>
-<p>Malagouzia, Manolakis Winery, dry ………………………..….….. bottle 750ml
-....</p>
+<p>Malagouzia, Manolakis Winery, BIO, dry
+........................................ bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>28,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Μαλαγουζιά, Οινοποιείο Μανωλάκης, BIO ……..………………… φιάλη 750ml
-....</p>
+<p>Μαλαγουζιά, Οινοποιείο Μανωλάκης, BIO, ξηρό
+........................... φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>28,00</p>
@@ -78,16 +79,16 @@
 </tr>
 <tr>
 <td><blockquote>
-<p>Malagouzia, Manolakis Winery, dry ..………….……………….….. glass 150ml
-....</p>
+<p>Malagouzia, Manolakis Winery, BIO, dry
+......................................... glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>6,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Μαλαγουζιά, Οινοποιείο Μανωλάκης, BIO …………...……….…. ποτήρι 150ml
-....</p>
+<p>Μαλαγουζιά, Οινοποιείο Μανωλάκης, BIO, ξηρό.........................
+ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>6,00</p>
@@ -95,16 +96,16 @@
 </tr>
 <tr>
 <td><blockquote>
-<p>Oreinos Helios, Semeli, dry …………………………...….……. bottle 187,50ml
-....</p>
+<p>Oreinos Helios,Semeli, Moschofillero &amp; Sauvignon
+Blanc...........bottle 187,50ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>7,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Ορεινός Ήλιος, Semeli, Μοσχοφίλερο &amp; Sauvignon Blanc ….……. φιάλη
-187,50ml ....</p>
+<p>Ορεινός Ήλιος, Semeli, Μοσχοφίλερο &amp; Sauvignon
+Blanc.........φιάλη 187,50ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>7,00</p>
@@ -112,9 +113,8 @@
 </tr>
 <tr>
 <td><blockquote>
-<p>Samos Vin Doux, sweet
-....................................................................
-bottle 750ml ....</p>
+<p>Samos Vin Doux, Moschato, sweet
+.................................................. bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
@@ -122,7 +122,7 @@ bottle 750ml ....</p>
 <td></td>
 <td><blockquote>
 <p>Samos Vin Doux, ΕΟΣ Σάμου, Μοσχάτο, γλυκό
-................................ φιάλη 750ml ....</p>
+............................. φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
@@ -130,17 +130,16 @@ bottle 750ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Samos Vin Doux, sweet
-.....................................................................
-glass 150ml ....</p>
+<p>Samos Vin Doux, Moschato, sweet
+................................................... glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Samos Vin Doux, ΕΟΣ Σάμου, Μοσχάτο, γλυκό
-............................... ποτήρι 150ml ....</p>
+<p>Samos Vin Doux, ΕΟΣ Σάμου, Μοσχάτο, γλυκό ...........................
+ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
@@ -158,8 +157,8 @@ bottle 200ml ....</p>
 <td></td>
 <td><blockquote>
 <p>Prosecco
-...................................................................................
-......... φιάλη 200ml ....</p>
+..............................................................................................
+φιάλη 200ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>8,00</p>
@@ -178,16 +177,16 @@ bottle 200ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Agiorgitiko, Manolakis Winery, dry
-................................................. bottle 750ml ....</p>
+<p>Agiorgitiko, Manolakis Winery, BIO, dry
+........................................ bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Αγιωργίτικο, Οινοποιείο Μανωλάκης
-.............................................. φιάλη 750ml ....</p>
+<p>Αγιωργίτικο, Οινοποιείο Μανωλάκης, BIO, ξηρό
+........................... φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
@@ -195,16 +194,16 @@ bottle 200ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Agiorgitiko, Manolakis Winery, dry
-.................................................. glass 150ml ....</p>
+<p>Agiorgitiko, Manolakis Winery, BIO, dry
+......................................... glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Αγιωργίτικο, Οινοποιείο Μανωλάκης
-............................................. ποτήρι 150ml ....</p>
+<p>Αγιωργίτικο, Οινοποιείο Μανωλάκης, ΒΙΟ, ξηρό
+.......................... ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
@@ -251,16 +250,16 @@ bottle 200ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Oreinos Helios, Semeli Estate, dry …...…..…………...………........ bottle
-750ml ....</p>
+<p>Oreinos Helios, Semeli Estate, Agiorgitiko &amp; Syrah, dry
+................. bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Ορεινός Ήλιος, Semeli, Αγιωργίτικο &amp; Syrah …...…..…………........
-φιάλη 750ml ....</p>
+<p>Ορεινός Ήλιος, Semeli, Αγιωργίτικο &amp; Syrah, ξηρό
+........................... φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>23,00</p>
@@ -268,16 +267,16 @@ bottle 200ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Oreinos Helios, Semeli Estate, dry …...…..…………..………........ ..glass
-150ml ....</p>
+<p>Oreinos Helios, Semeli Estate, Agiorgitiko &amp; Syrah, dry
+...............…glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Ορεινός Ήλιος, Semeli, Αγιωργίτικο &amp; Syrah …………….……..…. ποτήρι
-150ml ....</p>
+<p>Ορεινός Ήλιος, Semeli, Αγιωργίτικο &amp; Syrah, ξηρό
+......................... ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>5,00</p>
@@ -285,16 +284,16 @@ bottle 200ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Akrani, Single Vineyard, dry …...……………….……………........ bottle 750ml
-....</p>
+<p>Akrani, Single Vineyard, Merlot, dry
+............................................... bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>28,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Κτήμα Ακράνη, Single Vineyard, Merlot …...…..……………......... φιάλη
-750ml ....</p>
+<p>Κτήμα Ακράνη, Single Vineyard, Merlot, ξηρό
+................................. φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>28,00</p>
@@ -302,16 +301,16 @@ bottle 200ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Akrani, Single Vineyard, dry …...……………….……………......... glass 150ml
-....</p>
+<p>Akrani, Single Vineyard, Merlot, dry
+................................................ glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>6,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Κτήμα Ακράνη, Single Vineyard, Merlot …………….………...…. ποτήρι 150ml
-....</p>
+<p>Κτήμα Ακράνη, Single Vineyard, Merlot ξηρό
+............................. ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
 <p>6,00</p>
@@ -327,7 +326,7 @@ bottle 750ml ....</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Γη και ουρανός, ξινόμαυρο, ξηρό, Ναουσα ....…..……...……........ φιάλη
+<p>Γη και ουρανός, ξινόμαυρο, ξηρό, Ναουσα ....…..……...……......... φιάλη
 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
@@ -336,7 +335,7 @@ bottle 750ml ....</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Earth and Sky, xinamavro, dry, Naoussa ........…..….…...……........
+<p>Earth and Sky, xinamavro, dry, Naoussa ........…..….…...…….........
 glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
@@ -344,7 +343,7 @@ glass 150ml ....</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Γη και ουρανός, ξινόμαυρο, ξηρό, Ναουσα .........…………..........
+<p>Γη και ουρανός, ξινόμαυρο, ξηρό, Ναουσα .........…………...........
 ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
