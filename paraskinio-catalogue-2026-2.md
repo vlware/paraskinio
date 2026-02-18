@@ -1174,7 +1174,7 @@ Viennois........................................................................
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p><strong>ΔΙΑΦΟΡΑ</strong></p>
+<p><strong>VARIOUS</strong></p>
 </blockquote></td>
 <td></td>
 </tr>
@@ -1227,7 +1227,7 @@ Viennois........................................................................
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>** Λικέρ: Μεταξά 5*, Frangelico, Cynar, Ricard
+<p>** Liquer Metaxa 5*, Frangelico, Cynar, Ricard
 .......................................................</p>
 </blockquote></td>
 <td><blockquote>
