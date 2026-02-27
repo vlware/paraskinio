@@ -614,7 +614,7 @@ LEGAKIS</p>
 </tbody>
 </table>
 
-<table style="width:100%;">
+<table>
 <colgroup>
 <col style="width: 40%" />
 <col style="width: 6%" />
