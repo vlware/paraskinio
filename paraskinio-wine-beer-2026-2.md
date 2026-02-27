@@ -181,7 +181,7 @@ bottle 200ml ....</p>
 ........................................ bottle 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>23,00</p>
+<p>28,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -189,7 +189,7 @@ bottle 200ml ....</p>
 ........................... φιάλη 750ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>23,00</p>
+<p>28,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ bottle 200ml ....</p>
 ......................................... glass 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,00</p>
+<p>6,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -206,7 +206,7 @@ bottle 200ml ....</p>
 .......................... ποτήρι 150ml ....</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,00</p>
+<p>6,00</p>
 </blockquote></td>
 </tr>
 <tr>
