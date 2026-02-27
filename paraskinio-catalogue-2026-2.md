@@ -361,12 +361,10 @@ Bacardi.................</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>* Σε όλα τα παραπάνω επιπλέον Καφές, Λικέρ, Ουίσκι ή Κονιάκ
-.............................</p>
+<p>* Σε όλα τα παραπάνω επιπλέον Καφές, Λικέρ, Ουίσκι ή Κονιάκ +2,00 €
+.................</p>
 </blockquote></td>
-<td><blockquote>
-<p>2,00</p>
-</blockquote></td>
+<td></td>
 <td></td>
 <td><blockquote>
 <p><strong>ΔΙΑΦΟΡΑ</strong></p>
@@ -1166,12 +1164,10 @@ Viennois........................................................................
 </tr>
 <tr>
 <td><blockquote>
-<p>* In the above added Coffee, Liquer, whiskey or Cogniac
-........................................</p>
+<p>* In the above added Coffee, Liquer, whiskey or Cogniac +2,00 €
+..........................</p>
 </blockquote></td>
-<td><blockquote>
-<p>2,00</p>
-</blockquote></td>
+<td></td>
 <td></td>
 <td><blockquote>
 <p><strong>VARIOUS</strong></p>
