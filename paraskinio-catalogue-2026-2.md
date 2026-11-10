@@ -510,7 +510,7 @@ Bourbon.........................................................................
 Πορτοκαλάδα.....................................................................................................</p>
 </blockquote></td>
 <td><blockquote>
-<p>3,50</p>
+<p>4,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -573,7 +573,7 @@ Grapefruit......................................................................
 ................................................................................................................</p>
 </blockquote></td>
 <td><blockquote>
-<p>3,00</p>
+<p>4,00</p>
 </blockquote></td>
 <td></td>
 <td></td>
@@ -684,8 +684,8 @@ Grapefruit......................................................................
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Aperol Spritz, Campari Spritz
-.....................................................................................</p>
+<p>Aperol Spritz, Campari Spritz, Cinar Spritz
+................................................................</p>
 </blockquote></td>
 <td style="text-align: left;"><p>9,00</p></td>
 </tr>
@@ -699,8 +699,8 @@ Grapefruit......................................................................
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Negroni, Margarita, Old Fashioned
-.............................................................................</p>
+<p>Negroni, Margarita, Paloma, Old Fashioned, Amaretto sour, Americano *
+................</p>
 </blockquote></td>
 <td style="text-align: left;"><p>10,00</p></td>
 </tr>
@@ -725,12 +725,12 @@ Grapefruit......................................................................
 …..............................................................................................</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Martini Florent 0% Alcohol free
-................................................................................</p>
+<p>Martini Floreale 0% Alcohol free
+...............................................................................</p>
 </blockquote></td>
 <td style="text-align: left;"><p>9,00</p></td>
 </tr>
@@ -756,7 +756,7 @@ Grapefruit......................................................................
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>* Οι φιάλες των 700ml για τα παραπάνω χρεώνονται όσο 9 επιμέρους
+<p>Οι φιάλες των 700ml για τα παραπάνω χρεώνονται όσο 9 επιμέρους
 ποτά</p>
 </blockquote></td>
 <td></td>
@@ -788,7 +788,8 @@ Grapefruit......................................................................
 <th></th>
 <th></th>
 <th><blockquote>
-<p>Στις τιμές περιλαμβάνεται Φ.Δ.Α. 0,5% | Φ.Π.Α Alc. 24% &amp; 13%
+<p>* Ρωτήστε για τη διαθεσιμότητα<br />
+Στις τιμές περιλαμβάνεται Φ.Δ.Α. 0,5% | Φ.Π.Α Alc. 24% &amp; 13%
 Κατηγορία πολυτελείας</p>
 </blockquote></th>
 <th></th>
@@ -1308,7 +1309,7 @@ Bourbon.........................................................................
 ........................................................................................................</p>
 </blockquote></td>
 <td><blockquote>
-<p>3,50</p>
+<p>4,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
@@ -1371,7 +1372,7 @@ Bourbon.........................................................................
 ...................................................................................................................</p>
 </blockquote></td>
 <td><blockquote>
-<p>3,00</p>
+<p>4,00</p>
 </blockquote></td>
 <td></td>
 <td></td>
@@ -1482,8 +1483,8 @@ Water...........................................................</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Aperol Spritz, Campari Spritz
-.....................................................................................</p>
+<p>Aperol Spritz, Campari Spritz, Cinar Spritz
+................................................................</p>
 </blockquote></td>
 <td style="text-align: left;"><p>9,00</p></td>
 </tr>
@@ -1497,8 +1498,8 @@ Water...........................................................</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Negroni, Margarita, Old Fashioned
-.............................................................................</p>
+<p>Negroni, Margarita, Paloma, Old Fashioned, Amaretto sour, Americano *
+. ..............</p>
 </blockquote></td>
 <td style="text-align: left;"><p>10,00</p></td>
 </tr>
@@ -1523,12 +1524,12 @@ Water...........................................................</p>
 ...............................……..............................................................................</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>Martini Florent 0% Alcohol free
-................................................................................</p>
+<p>Martini Floreale 0% Alcohol free
+...............................................................................</p>
 </blockquote></td>
 <td style="text-align: left;"><p>9,00</p></td>
 </tr>
@@ -1554,8 +1555,7 @@ katiki cheese)</p>
 </blockquote></td>
 <td></td>
 <td><blockquote>
-<p>* Bottles of 700ml for the above are charged as 9 individual
-drinks</p>
+<p>Bottles of 700ml for the above are charged as 9 individual drinks</p>
 </blockquote></td>
 <td></td>
 </tr>
@@ -1586,6 +1586,7 @@ drinks</p>
 <th></th>
 <th></th>
 <th><blockquote>
+<p>* Ask for availability</p>
 <p>Prices include Municipal Tax. 0,5% | T.V.A. Alc. 24% &amp; 13%</p>
 </blockquote></th>
 <th></th>
