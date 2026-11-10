@@ -1,3 +1,5 @@
+> <img src="media/image2.jpeg" style="width:1.22014in;height:0.5875in" />
+
 <table>
 <colgroup>
 <col style="width: 40%" />
@@ -370,11 +372,15 @@ LEGAKIS</p>
 
 ……………………………………………………………
 
-……………………………………………………………
+**ΜΠΥΡΕΣ** € **BEERS**
 
 ……………………………………………………………
 
-<table style="width:98%;">
+……………………………………………………………
+
+€
+
+<table style="width:97%;">
 <colgroup>
 <col style="width: 39%" />
 <col style="width: 13%" />
@@ -388,14 +394,14 @@ LEGAKIS</p>
 <p>Carlsberg ποτήρι 250ml</p>
 </blockquote></th>
 <th><blockquote>
-<p>3,50</p>
+<p>4,00</p>
 </blockquote></th>
 <th><blockquote>
 <p><strong>DRAUGHT</strong></p>
 <p>Carlsberg glass 250ml</p>
 </blockquote></th>
 <th><blockquote>
-<p>3,50</p>
+<p>4,00</p>
 </blockquote></th>
 </tr>
 </thead>
@@ -405,13 +411,13 @@ LEGAKIS</p>
 <p>Carlsberg ποτήρι 500ml</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,50</p>
+<p>6,00</p>
 </blockquote></td>
 <td><blockquote>
 <p>Carlsberg glass 500ml</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,50</p>
+<p>6,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -473,7 +479,7 @@ LEGAKIS</p>
 </tbody>
 </table>
 
-<table style="width:98%;">
+<table style="width:97%;">
 <colgroup>
 <col style="width: 39%" />
 <col style="width: 13%" />
@@ -487,14 +493,14 @@ LEGAKIS</p>
 <p>Fischer φιάλη 330ml…………………………………………………………………</p>
 </blockquote></th>
 <th><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></th>
 <th><blockquote>
 <p><strong>BOTTLE</strong></p>
 <p>Fischer bottle 330ml…………………………………………………………………</p>
 </blockquote></th>
 <th><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></th>
 </tr>
 </thead>
@@ -532,13 +538,13 @@ LEGAKIS</p>
 <p>Νήσος All-Day Organic (Χωρίς γλουτένη) φιάλη 330ml.…………………………..</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,00</p>
+<p>6,00</p>
 </blockquote></td>
 <td><blockquote>
 <p>Nissos All-Day Organic (Gluten free) bottle 330ml…..……………………………..</p>
 </blockquote></td>
 <td><blockquote>
-<p>5,00</p>
+<p>6,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -555,13 +561,13 @@ LEGAKIS</p>
 </tr>
 <tr>
 <td><blockquote>
-<p>Blame The Sun, Beach Bum IPA φιάλη 330ml ……………………………………</p>
+<p>Jasmin IPA φιάλη 330ml ……………………………………………………………</p>
 </blockquote></td>
 <td><blockquote>
 <p>6,00</p>
 </blockquote></td>
 <td><blockquote>
-<p>Blame The Sun, Beach Bum IPA bottle 330ml ……………………………………</p>
+<p>Jasmin IPA bottle 330ml ……………………………………………………………</p>
 </blockquote></td>
 <td><blockquote>
 <p>6,00</p>
@@ -573,13 +579,13 @@ LEGAKIS</p>
 330ml…………………..........</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></td>
 <td><blockquote>
-<p>Clausthaler Lemon 0% Alcohol free bottle 330ml……………..…………………</p>
+<p>Clausthaler Lemon 0% Alcohol free bottle 330ml………………..…………………</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -588,13 +594,13 @@ LEGAKIS</p>
 330ml…………………...........………</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></td>
 <td><blockquote>
 <p>Clausthaler 0% Alcohol free bottle 330ml…………………………………………</p>
 </blockquote></td>
 <td><blockquote>
-<p>4,50</p>
+<p>5,00</p>
 </blockquote></td>
 </tr>
 <tr>
